@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trueinfolabs-ocr",
+  "private_key_id": "20c8c095084ba31119123d9a801146cfeccbfd75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjiK8mipiG6t78\ndFwIGwbouIQ3X94yLaD8bmBqefbjRqgf/NpHuMMX/lZnIo+oAoFQljZLTXQHOG1v\nGdVvHUE5Dar9N8F2Ecrz0AcP8qLG86py2mrds7Q2Ss/vavCimV/VBX8uU0G2/slS\nYrrNIJqaeAXxxYyEzWCwZTY+p+4XLsBp9+aC3dDiDBJdwpNWniYvAmrgtdEYfVOC\n32C+W13qHB9paJUR10bCFU19vpM9JA1MqCeN1s/Ctlbt+/m0KIiXHTV0Ev8c+kov\nbBObLpBEZ2+7ZnX3Cmj/Df/sDaAGqM8884pdFgglOvcQcrnwFP9H7jlDt/XvAxC/\n3lPJLd2zAgMBAAECggEAK+aiKoUTbEi6Iuiz2iMzSB9csybj1fGk4Y9aB8uFKT9L\nHAc7q/xgN106YcaH7TD6+SDSI4X/635M9oHnZ8RhQYk3SXIB2Anvw2MpujDHXQSF\n0f5rqOe4rciIqLu7LNNixCONIGkOX6tnbVv+zNl/V493/Q8s6WvfFIufM9POGV+v\n9mhAgm+5WiA7my6BtX2xoJggsAkCTZIM05DGm9DgXuhcuT0tmBLRgvt1MffiJkD8\nMTQWw0Obc/O0hBk2aK+xSntxnt0Y5ew7u/+0GztmJhJddroV8ev1YnWyAxEZEp7Q\nXeAzZtJ1IpqzLGEW/E2XxcFLwi8rV4E1i1tsrkOAvQKBgQDcIH0Lsy3WY86GBNY2\npn/zkT2itT7/QK8ldw4wg/vvfFOQZVJyrVYgBDBDq9GT88I0ivAGnZit0c8dg0Ph\nHTmjZrzOW/R4Zw9v9fUGkjWH1NywNyw4xgYmllH/pgt73pn0YJhRSPEil6QhRLSz\nXJpGACXFC4feGQn1giQQn79ynwKBgQC+Ly71dVhe+7uZQzCi2iKIOqqjIrOhRWs+\nNd/0d2gMzZ57p5S8e3H1gw8Q2z6TINsv1Vn8PHKBUEY6I9a1/MQDqcNxAZHPAZCz\nU6SUNLZmL+dbOT00dB6DDWeqNXKrBITvYcd4RclMwt6Uy9GIdVYRsYXcpqxg7exJ\nUpgLp6vwbQKBgBPq9KWcXudpPISv51omkqlNWRBh6gNarP5s2WHWb3NqAn2sTVuH\nB6X5+wwEfgAvLEFo2PMgS3Je66i1+exiopaAc1EQzPwgByuQS81+aU2TGyzusReq\nA2B2dZD2S0+4AqI0I1Qnj3ob0oQYHWmlVWhEFybPNkoIZfhLAExox//tAoGAHqLB\nIL8nXh2U6apeIk2bNHCm3iKP5xGkpd/N1LaLZ0yUE/05w2brQ446FhALM24egMUQ\nesZN97Czr1folWZDOQfWuNR05XCuG4UExO781tcuoI5G4rU12QyGv29eqlfPBjSt\nCh3LwHa/nh57AU1NcQo0sweSSwbogiMw5Oe8lb0CgYEAtOZkEYPGHxdhyiPHw3zu\npzLDIBNCP95nFsRC0cVyfQcW2MJ1xTNnB5jC1e/wJBbercQFMsdcmfn8egMpu84V\ndYgH/4cgiOwGsJvv+eT2ngJLcEUM8S2mJ5cAG8z0grf9ChejWMUzbd2frkg2diMJ\nPLlUjwFBd4hY7f2S9xWsvVw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tamil-ocr@trueinfolabs-ocr.iam.gserviceaccount.com",
+  "client_id": "102907087999482970510",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tamil-ocr%40trueinfolabs-ocr.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
